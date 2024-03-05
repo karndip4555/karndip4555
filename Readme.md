@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/karndip4555/count.svg?"  />
-</div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/karndip4555/karndip4555/output/snake.svg" alt="Snake animation" />
 
 ###
 
